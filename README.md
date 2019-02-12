@@ -16,3 +16,4 @@ Feature2
 Release_1.0.0
 ---------
   1st bugfix
+  2nd bugfix
