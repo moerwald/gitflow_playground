@@ -10,3 +10,4 @@ Feature1
 Feature2
 ---------
   1st change
+  2nd change
