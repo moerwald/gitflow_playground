@@ -11,3 +11,8 @@ Feature2
 ---------
   1st change
   2nd change
+
+
+Release_1.0.0
+---------
+  1st bugfix
