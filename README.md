@@ -27,3 +27,8 @@ support/Release_1.x.x Feature4
 support/Release_1.x.x Hotfix1
 ---------
   1st change
+
+support/Release_1.x.x Hotfix1
+---------
+  1st fix 
+  2nd fix 
