@@ -31,3 +31,4 @@ Feature5
 Release_1.1.0
 ---------
   1st bugfix
+  2nd bugfix
