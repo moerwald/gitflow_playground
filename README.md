@@ -23,3 +23,7 @@ support/Release_1.x.x Feature4
 ---------
   1st change
   2nd change
+
+support/Release_1.x.x Hotfix1
+---------
+  1st change
