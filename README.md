@@ -36,3 +36,4 @@ Release_1.1.0
 Feature6
 ---------
   1st change
+  2nd change
