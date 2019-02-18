@@ -37,3 +37,6 @@ Feature6
 ---------
   1st change
   2nd change
+
+
+Change from develop
