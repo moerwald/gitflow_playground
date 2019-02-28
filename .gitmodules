@@ -1,0 +1,4 @@
+[submodule "gitflow_submodule"]
+	path = gitflow_submodule
+	url = https://github.com/moerwald/gitflow_submodule.git
+	branch = develop
